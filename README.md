@@ -7,9 +7,7 @@ This is a simple React application for picking and changing background colors. I
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
